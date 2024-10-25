@@ -1,7 +1,7 @@
 Kadocsa Levente
 
 Csernák Gergely
-Pintér Zsolt
+
 
 
 
@@ -17,7 +17,7 @@ Balogh Ákos
 Lajos Péter
 
 
-
+Pintér Zsolt
 
 
 
